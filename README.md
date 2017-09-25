@@ -39,7 +39,7 @@ Download finished
 
 ## Further Thoughts
 1. Didn't really get into the chance to provide an interface to have the three optional features. Even though 2 and 3 of the options have been configured in the source code provided.
-2. Run `http://dist.pravala.com/coding/multiGet-example.zip` under MacOS gives me an error with source url `http://dist.pravala.com/coding/multiGet-example.zip` so I am not able to use my result to measure this example's result.
+2. Run `multiGet-darwin-386` under MacOS gives me an error with source url `http://dist.pravala.com/coding/multiGet-example.zip`.
 
 
 
