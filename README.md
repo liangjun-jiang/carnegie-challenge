@@ -2,11 +2,16 @@
 
 ## Instruction
 To compile & run, 
+
 step 1:
-`javac -cp httpclient-4.5.3.jar:commons-logging-1.2.jar:httpcore-4.4.6.jar:commons-io-2.5.jar Main.java`
+```
+javac -cp httpclient-4.5.3.jar:commons-logging-1.2.jar:httpcore-4.4.6.jar:commons-io-2.5.jar Main.java
+```
 
 Step 2:
-`java -cp httpclient-4.5.3.jar:commons-logging-1.2.jar:httpcore-4.4.6.jar:commons-io-2.5.jar: Main http://dist.pravala.com/coding/multiGet-example.zip /Users/l.jiang/Desktop/result.zip`
+```
+java -cp httpclient-4.5.3.jar:commons-logging-1.2.jar:httpcore-4.4.6.jar:commons-io-2.5.jar: Main http://dist.pravala.com/coding/multiGet-example.zip /Users/l.jiang/Desktop/result.zip
+```
 
 Sample result
 ```
